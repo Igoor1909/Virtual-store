@@ -13,7 +13,6 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.dev.Backend.entity.Estado;
 import com.dev.Backend.entity.Pessoa;
 import com.dev.Backend.service.PessoaService;
 
